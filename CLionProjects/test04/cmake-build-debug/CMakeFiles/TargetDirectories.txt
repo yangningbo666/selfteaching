@@ -1,0 +1,3 @@
+/Users/ningbo/CLionProjects/test04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ningbo/CLionProjects/test04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ningbo/CLionProjects/test04/cmake-build-debug/CMakeFiles/test04.dir
